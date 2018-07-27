@@ -6,3 +6,5 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZNIKE_PROGRAM1.
+
+Initialization.  "Initialization added
