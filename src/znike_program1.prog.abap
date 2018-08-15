@@ -6,3 +6,6 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZNIKE_PROGRAM1.
+
+END-OF-SELECTION.
+WRITE 'Demo Fix for Nike'.
